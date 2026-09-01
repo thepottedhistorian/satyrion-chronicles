@@ -3,7 +3,7 @@
 
 > *"Tracing the ancient roots of a modern collection."*
 
-**Project:** [The Potted Historian](https://thepottedhistorian.com)  
+**Project:** [The Potted Historian](https://www.thepottedhistorian.com)  
 **Status:** In Progress - Digital Scriptorium
 
 ## About this Volume
